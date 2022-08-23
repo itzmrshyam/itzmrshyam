@@ -6,30 +6,26 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{itzmrshyam}/count.svg"/></p>
 <img src="https://github-stats-alpha.vercel.app/api/?username=itzmrshyam&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmrshyam&theme=highcontrast)](https://github.com/itzmrshyam/github-readme-streak-stats)
-</div>
-<p align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmrshyam&theme=highcourt](https://github.com/itzmrshyam/github-readme-streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmrshyam&theme=white)" alt="itzmrshyam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmrshyam&show_icons=true&locale=en" alt="itzmrshyam" /></p>
+
 <a href="https://github.com/itzmrshyam">
 <img src="https://activity-graph.herokuapp.com/graph?username=itzmrshyam&theme=react-dark" />
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=77&duration=1900&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Any+Problem;OR;More+Update+;join+Telegram;Thank+you+🙏;+;+;;" alt="ODISHA" width="999" height="99">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmrshyam&show_icons=true&locale=en&layout=compact" alt="itzmrshyam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmrshyam&show_icons=true&locale=en" alt="itzmrshyam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmrshyam&" alt="itzmrshyam" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmrshyam&label=Profile%20views&color=0e75b6&style=flat" alt="itzmrshyam" /> </p>
 <p align="left"> <a href="https://github.com/itzmrshyam/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmrshyam" alt="itzmrshyam" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=77&duration=1900&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Any+Problem;OR;More+Update+;join+Telegram;Thank+you+🙏;+;" alt="ODISHA" width="999" height="99">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmrshyam&label=Profile%20views&color=0e75b6&style=flat" alt="itzmrshyam" /> </p>
 
-
+![Profile](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/itzmrshyam/&title=Profile%%65Views)
 <a href="https://youtube.com/channel/UCfk2wS7vZYzLR_Pk1eIb2yw"><p align="center">
 <img src="https://img.shields.io/badge/YouTube-black?logo=youtube" width="180">
 <a href="https://telegram.me/m_s_p_o_123">
 <img src="https://img.shields.io/badge/🇹 🇪 🇱 🇪 🇬 🇷 🇦 🇲-black?logo=telegram" width="180">
-<p align="center">
-
-![Telegram](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/itzmrshyam/&title=Profile%20Views)
 
 [![Snapchat%](https://img.shields.io/badge/Snapchat-%27ffd343.svg?logo=Snapchat&logoColor=white)](https://www.snapchat.com/shyamsundar9692)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/it_zmrshyam)

@@ -20,7 +20,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmrshyam&show_icons=true&locale=en&layout=compact" alt="itzmrshyam" /></p>
 <p align="left"> <a href="https://github.com/itzmrshyam/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmrshyam" alt="itzmrshyam" /></a> </p>
 <p align="left"><img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="itzmrshyam" /></a> </p>
-
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
+</p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=77&duration=1900&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Any+Problem;OR;More+Update+;join+Telegram;Thank+you+🙏;+;" alt="ODISHA" width="999" height="99">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmrshyam&label=Profile%20views&color=0e75b6&style=flat" alt="itzmrshyam"/>
 

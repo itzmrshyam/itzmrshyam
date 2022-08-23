@@ -20,9 +20,76 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmrshyam&show_icons=true&locale=en&layout=compact" alt="itzmrshyam" /></p>
 <p align="left"> <a href="https://github.com/itzmrshyam/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmrshyam" alt="itzmrshyam" /></a> </p>
 <p align="left"><img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="itzmrshyam" /></a> </p>
+
+# flat
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=flat
+```
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92325601-039b9300-f087-11ea-983a-fce8133549ee.png">
+</p>
+
+# onedark
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=onedark
+```
+
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
 </p>
+
+# gruvbox
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyamtheme=gruvbox
+```
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92315152-e9c56600-f01c-11ea-9536-1bfbb158cfcb.png">
+</p>
+
+# dracula
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=dracula
+```
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92490273-c91f2b00-f22b-11ea-9481-b5daae4d7bc3.png">
+</p>
+
+# monokai
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=monokai
+```
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/93725426-2c289e80-fbea-11ea-96a4-f6490ccf2126.png">
+</p>
+
+# chalk
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=chalk
+```
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/94294003-1de7d300-ff9a-11ea-91d1-60417a4d919b.png">
+</p>
+
+# nord
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=nord
+```
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/94346857-7ab2be80-006a-11eb-9082-36d377ae2531.png">
+</p>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=77&duration=1900&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Any+Problem;OR;More+Update+;join+Telegram;Thank+you+🙏;+;" alt="ODISHA" width="999" height="99">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmrshyam&label=Profile%20views&color=0e75b6&style=flat" alt="itzmrshyam"/>
 

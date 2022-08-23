@@ -1,3 +1,5 @@
+# Hii 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%red&size=30&duration=4000&center=true&vCenter=true&width=250&height=40&lines=@itz_mrshyam)](https://git.io/typing-svg) &nbsp;&nbsp;
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=60&duration=5000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Shyam+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Iti+Student+🧑🏻‍🔧+;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+small;Youtuber+🕵️;Please+Support;Subscribe+;Thanks+🙏;+;" alt="Shyam" width="650" height="55">
 <div align="center">
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
@@ -17,6 +19,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmrshyam&show_icons=true&locale=en" alt="itzmrshyam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmrshyam&" alt="itzmrshyam" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmrshyam&label=Profile%20views&color=0e75b6&style=flat" alt="itzmrshyam" /> </p>
+<p align="left"> <a href="https://github.com/itzmrshyam/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmrshyam" alt="itzmrshyam" /></a> </p>
+
 
 <a href="https://youtube.com/channel/UCfk2wS7vZYzLR_Pk1eIb2yw"><p align="center">
 <img src="https://img.shields.io/badge/YouTube-black?logo=youtube" width="180">
@@ -24,10 +29,7 @@
 <img src="https://img.shields.io/badge/🇹 🇪 🇱 🇪 🇬 🇷 🇦 🇲-black?logo=telegram" width="180">
 <p align="center">
 
-![Telegram](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/itzmrshyam/&title=Profile%200Views)
-<a href="https://telegram.me/m_s_p_o_123">
-    &nbsp;<img src="https://img.shields.io/badge/Main-Group-red?" width="200" height="28">&nbsp;
-  </a>
+![Telegram](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/itzmrshyam/&title=Profile%20Views)
 
 [![Snapchat%](https://img.shields.io/badge/Snapchat-%27ffd343.svg?logo=Snapchat&logoColor=white)](https://www.snapchat.com/shyamsundar9692)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/it_zmrshyam)
@@ -46,18 +48,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%27E4405F.svg?logo=telegram&logoColor=white)](https://telegram.me/itz_mrshyam)
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%red&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=@itz_mrshyam)](https://git.io/typing-svg) &nbsp;&nbsp;
-
-
-<h1 align="center">Hi 👋, I'm Shyam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmrshyam&label=Profile%20views&color=0e75b6&style=flat" alt="itzmrshyam" /> </p>
-
-<p align="left"> <a href="https://github.com/itzmrshyam/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmrshyam" alt="itzmrshyam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 # Connect 📫 **shyamsundarpani4@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>

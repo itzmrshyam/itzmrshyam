@@ -22,6 +22,6 @@
 [![Messager](https://img.shields.io/badge/Messager-%27E4405F.svg?logo=Facebook&logoColor=white)](https://m.me/itzmrshyam)
 [![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/itzmrshyam)
 [![GitHub](https://img.shields.io/badge/@GitHub~-%27E4405F.svg?logo=GitHub&logoColor=white)](https://github.com/itzmrshyam)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/it_zmrshyam)
-
+[![Twitter](https://img.shields.io/badge/@Twitter-%23E4405F.svg?logo=Twitter&logoColor=white)](https://twitter.com/itz_mrshyam)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%27E4405F.svg?logo=pinterest&logoColor=white)](https://in.pinterest.com/itz_mrshyam/)
 <p align="center">

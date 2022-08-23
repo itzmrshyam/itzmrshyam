@@ -90,6 +90,77 @@ https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=nord
   <img width="660" src="https://user-images.githubusercontent.com/6661165/94346857-7ab2be80-006a-11eb-9082-36d377ae2531.png">
 </p>
 
+# alduin
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=alduin
+```
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/99085932-2a88bf00-260c-11eb-9b26-d2f125773831.png">
+</p>
+
+# darkhub
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=darkhub
+```
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/102801126-249ab080-43f8-11eb-91c8-f56f94c35777.png">
+</p>
+
+# juicyfresh
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=juicyfresh
+```
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/104810094-edbc8c80-5835-11eb-8c20-a76192a00728.png">
+</p>
+
+# buddhism
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=buddhism
+```
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
+</p>
+
+# oldie
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=oldie
+```
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709581-a0a5d380-971d-11eb-8583-770dc4091ebf.png">
+</p>
+
+# radical
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=radical
+```
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/116633521-adbc8800-a994-11eb-97c4-e45a32721491.png">
+</p>
+
+# onestar
+
+```
+https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=onestar
+```
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
+</p>
+
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=77&duration=1900&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Any+Problem;OR;More+Update+;join+Telegram;Thank+you+🙏;+;" alt="ODISHA" width="999" height="99">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmrshyam&label=Profile%20views&color=0e75b6&style=flat" alt="itzmrshyam"/>
 

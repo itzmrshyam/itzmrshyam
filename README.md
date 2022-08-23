@@ -2,6 +2,9 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%red&size=30&duration=4000&center=true&vCenter=true&width=250&height=40&lines=@itz_mrshyam)](https://git.io/typing-svg) &nbsp;&nbsp;
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=60&duration=5000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Shyam+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Iti+Student+🧑🏻‍🔧+;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+small;Youtuber+🕵️;Please+Support;Subscribe+;Thanks+🙏;+;" alt="Shyam" width="650" height="55">
 <div align="center">
+<p align="center">
+<img width="220" src="https://user-images.githubusercontent.com/6661165/91642962-6333e600-ea6a-11ea-83af-e371e996bfa6.png" />
+</p>
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{itzmrshyam}/count.svg"/></p>
 <img src="https://github-stats-alpha.vercel.app/api/?username=itzmrshyam&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
@@ -16,6 +19,8 @@
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmrshyam&show_icons=true&locale=en&layout=compact" alt="itzmrshyam" /></p>
 <p align="left"> <a href="https://github.com/itzmrshyam/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmrshyam" alt="itzmrshyam" /></a> </p>
+<p align="left"><img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="itzmrshyam" /></a> </p>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=77&duration=1900&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Any+Problem;OR;More+Update+;join+Telegram;Thank+you+🙏;+;" alt="ODISHA" width="999" height="99">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmrshyam&label=Profile%20views&color=0e75b6&style=flat" alt="itzmrshyam"/>
 

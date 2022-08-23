@@ -10,7 +10,7 @@
 <a href="https://github.com/itzmrshyam">
     <img src="https://activity-graph.herokuapp.com/graph?username=itzmrshyam&theme=react-dark" />
   </a>
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=77&duration=1100&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+I+am+Shyam+%F0%9F%91%8B%F0%9F%8F%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;please+join;Telegram+" alt="ODISHA" width="999" height="99">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=77&duration=1900&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+I+am+Shyam+%F0%9F%91%8B%F0%9F%8F%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;Any+problem+to;or;+more+update+to+;join+telegram;Thank+you+🙏;;;;" alt="ODISHA" width="999" height="99">
 <a href="https://telegram.me/itz_mrshyam">
 <img src="https://img.shields.io/badge/🇸 🇭 🇾 🇦 🇲-black?logo=telegram" width="180"><p align="center"><img
 

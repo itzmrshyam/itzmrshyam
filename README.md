@@ -12,12 +12,10 @@
   </a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=77&duration=1100&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+I+am+Shyam+%F0%9F%91%8B%F0%9F%8F%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;please+join;Telegram+" alt="ODISHA" width="999" height="99">
 <a href="https://telegram.me/itz_mrshyam">
-  <img src="https://img.shields.io/badge/🇸 🇭 🇾 🇦 🇲-black?logo=telegram" width="180">
+<img src="https://img.shields.io/badge/🇸 🇭 🇾 🇦 🇲-black?logo=telegram" width="180"><p align="center"><img
 
- [![Instagram](https://img.shields.io/badge/Instagram-%25E5705F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itz_mrshyam)
- [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://youtube.com/channel/UCfk2wS7vZYzLR_Pk1eIb2yw)
-
-</p>
+  [![Instagram](https://img.shields.io/badge/Instagram-%27E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/it_zmrshyam)
+  [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://youtube.com/channel/UCfk2wS7vZYzLR_Pk1eIb2yw)
 <p align="center">
 <a href="https://youtube.com/channel/UCfk2wS7vZYzLR_Pk1eIb2yw">
   <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="180">

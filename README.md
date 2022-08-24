@@ -1,4 +1,3 @@
-<a href="https://youtube.com/channel/UCfk2wS7vZYzLR_Pk1eIb2yw"><img align="center" src="https://raw.githubusercontent.com/itzmrshyam/itzmrshyam/main/images/download(2).png"/></a>
 
 # Hii <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px"></h2>
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%red&size=30&duration=4000&center=true&vCenter=true&width=250&height=40&lines=@itz_mrshyam)](https://git.io/typing-svg) &nbsp;&nbsp;

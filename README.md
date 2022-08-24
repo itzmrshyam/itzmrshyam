@@ -18,7 +18,6 @@
     <img align="center" src="https://raw.githubusercontent.com/cateiru/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg" width="270px" />
   </a>
 </div>
-
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmrshyam&show_icons=true&locale=en&layout=compact" alt="itzmrshyam" /></p>
 <p align="left"> <a href="https://github.com/itzmrshyam/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmrshyam" alt="itzmrshyam" /></a> </p>
@@ -166,10 +165,12 @@ https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=onestar
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=77&duration=1900&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Any+Problem;OR;More+Update+;join+Telegram;Thank+you+🙏;+;" alt="ODISHA" width="999" height="99">
+<p align="left"> <a href="https://twitter.com/itz_mrshyam" target="blank"><img src="https://img.shields.io/twitter/follow/itz_mrshyam?logo=twitter&style=for-the-badge" alt="itz_mrshyam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itz_mrshyam" target="blank"><img src="https://img.shields.io/twitter/follow/itz_mrshyam?logo=twitter&style=for-the-badge" alt="itz_mrshyam" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmrshyam&label=Profile%20views&color=0e75b6&style=flat" alt="itzmrshyam"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/itzmrshyam.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/itzmrshyam?tab=followers)
-![Profilecount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/itzmrshyam/&title=Profil%-65Views)
+![Profilecount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/itzmrshyam/&title=github%-65Views)
 <a href="https://youtube.com/channel/UCfk2wS7vZYzLR_Pk1eIb2yw"><p align="center">
 <img src="https://img.shields.io/badge/YouTube-black?logo=youtube" width="180">
 <a href="https://telegram.me/m_s_p_o_123">

@@ -13,7 +13,7 @@
 <p align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmrshyam&show_icons=true&locale=en" alt="itzmrshyam" />
 <a href="https://github.com/itzmrshyam">
-<img src="https://activity-graph.herokuapp.com/graph?username=itzmrshyam&theme=react-dark" />
+
 
 <a href="https://github.com/itzmrshyam/github-profile-summary-cards">
     <img align="center" src="https://raw.githubusercontent.com/cateiru/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg" width="270px" />

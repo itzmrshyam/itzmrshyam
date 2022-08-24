@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 # Hii <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px"></h2>
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%red&size=30&duration=4000&center=true&vCenter=true&width=250&height=40&lines=@itz_mrshyam)](https://git.io/typing-svg) &nbsp;&nbsp;
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=60&duration=5000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Shyam+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Iti+Student+🧑🏻‍🔧+;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+small;Youtuber+🕵️;Please+Support;Subscribe+;Thanks+🙏;+;" alt="Shyam" width="650" height="55">

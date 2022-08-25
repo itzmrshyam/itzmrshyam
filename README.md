@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/itzmrshyam/readme1/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/itzmrshyam/readme1/blob/main/download%20(2).png" size="full-screen">
 </p>
 
 

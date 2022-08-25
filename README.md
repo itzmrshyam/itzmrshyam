@@ -214,7 +214,7 @@ https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=onestar
 
 ---
 <p align="center">
-<img src="https://github.com/itzmrshyam/itzmrshyam/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/itzmrshyam/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://github-visitor-counter-pro.vercel.app)

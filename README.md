@@ -1,6 +1,8 @@
 
 # Hii <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px"></h2>
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%red&size=30&duration=4000&center=true&vCenter=true&width=250&height=40&lines=@itz_mrshyam)](https://git.io/typing-svg) &nbsp;&nbsp;
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=60&duration=5000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Shyam+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Iti+Student+🧑🏻‍🔧+;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+small;Youtuber+🕵️;Please+Support;Subscribe+;Thanks+🙏;+;" alt="Shyam" width="650" height="55">
 
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
@@ -164,10 +166,11 @@ https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=onestar
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
 </p>
-
+<a href="https://twitter.com/itz_mrshyam" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://heroku.com/"><img alt="Powered by Heroku" title="Powered by Heroku" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=77&duration=1900&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Any+Problem;OR;More+Update+;join+Telegram;Thank+you+🙏;+;" alt="ODISHA" width="999" height="99">
 <p align="left"> <a href="https://twitter.com/itz_mrshyam" target="blank"><img src="https://img.shields.io/twitter/follow/itz_mrshyam?logo=twitter&style=for-the-badge" alt="itz_mrshyam" /></a> </p>
-<p align="left"> <a href="https://twitter.com/itz_mrshyam" target="blank"><img src="https://img.shields.io/twitter/follow/itz_mrshyam?logo=twitter&style=for-the-badge" alt="itz_mrshyam" /></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmrshyam&label=Profile%20views&color=0e75b6&style=flat" alt="itzmrshyam"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/itzmrshyam.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/itzmrshyam?tab=followers)

@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/itzmrshyam/readme1/blob/main/download%20(2).png" size="full-screen">
+<img src="https://github.com/itzmrshyam/readme1/blob/main/download%20(2).png" height="500" width="21000"">
 </p>
 
 

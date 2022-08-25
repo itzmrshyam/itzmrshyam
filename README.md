@@ -210,4 +210,11 @@ https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=onestar
 <p><a href="https://ko-fi.com/itz_mrshyam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="itz_mrshyam" /></a></p><br><br>
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='520"'><p align="center">
 
+### Thanks for Visiting my GitHub Profile!
 
+---
+<p align="center">
+<img src="https://github.com/itzmrshyam/itzmrshyam/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://github-visitor-counter-pro.vercel.app)

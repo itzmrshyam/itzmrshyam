@@ -16,6 +16,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmrshyam&theme=dark)](https://github.com/itzmrshyam/github-readme-streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmrshyam&theme=white)](https://github.com/itzmrshyam/github-readme-streak-stats)
+
 <p align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmrshyam&show_icons=true&locale=en" alt="itzmrshyam" />
 <a href="https://github.com/itzmrshyam">
@@ -171,7 +172,7 @@ https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=onestar
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
 </p>
 <a href="https://twitter.com/itz_mrshyam" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://heroku.com/"><img alt="Powered by Heroku" title="Powered by Heroku" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=77&duration=1900&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Any+Problem;OR;More+Update+;join+Telegram;Thank+you+🙏;+;" alt="ODISHA" width="999" height="99">
 <p align="left"> <a href="https://twitter.com/itz_mrshyam" target="blank"><img src="https://img.shields.io/twitter/follow/itz_mrshyam?logo=twitter&style=for-the-badge" alt="itz_mrshyam" /></a> </p>
 
@@ -179,6 +180,7 @@ https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=onestar
 
 [![GitHub followers](https://img.shields.io/github/followers/itzmrshyam.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/itzmrshyam?tab=followers)
 ![Profilecount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/itzmrshyam/&title=github%-65Views)
+<a href="https://heroku.com/"><img alt="Powered by Heroku" title="Powered by Heroku" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 <a href="https://youtube.com/channel/UCfk2wS7vZYzLR_Pk1eIb2yw"><p align="center">
 <img src="https://img.shields.io/badge/YouTube-black?logo=youtube" width="180">
 <a href="https://telegram.me/m_s_p_o_123">

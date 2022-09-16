@@ -193,7 +193,7 @@ https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=onestar
 [![GitHub](https://img.shields.io/badge/~GitHub~-%27E4405F.svg?logo=GitHub&logoColor=white)](https://github.com/itzmrshyam)
 [![Twitter](https://img.shields.io/badge/~Twitter~-%23E4405F.svg?logo=Twitter&logoColor=white)](https://twitter.com/itz_mrshyam)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%27E4405F.svg?logo=pinterest&logoColor=white)](https://in.pinterest.com/itz_mrshyam/)
-[![Linkedin](https://img.shields.io/badge/~LinkedIn-%23E4405F.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/itz-mrshyam)
+[![Linkedin](https://img.shields.io/badge/~LinkedIn-%23E4405F.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itz-mrshyam/)
 [![Reddit](https://img.shields.io/badge/~Reddit~-%27E4405F.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/itz_mrshyam/)
 [![Flickr](https://img.shields.io/badge/~Flickr~-%23E4405F.svg?logo=flickr&logoColor=white)](https://www.flickr.com/photos/196321369@N05/)
 [![Nextdoor](https://img.shields.io/badge/nextdoor-%27E4405F.svg?logo=nextdoor&logoColor=white)](https://nextdoor.com/business-profile/preview/)

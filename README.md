@@ -1,7 +1,12 @@
 <p align="center">
-<img width="660" height="100" src="https://github.com/itzmrshyam/itzmrshyam/blob/main/coding.gif">
+<img width="1000" height="200" src="https://github.com/itzmrshyam/itzmrshyam/blob/main/coding.gif">
 </p>
-
+<p align="center">
+<img width="1000" height="200" src="https://github.com/itzmrshyam/itzmrshyam/blob/main/coding.gif">
+</p>
+<p align="center">
+<img width="1000" height="200" src="https://github.com/itzmrshyam/itzmrshyam/blob/main/coding.gif">
+</p>
 
 # Hii <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px"></h2>
 

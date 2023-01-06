@@ -189,7 +189,7 @@ https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=onestar
 <a href="https://telegram.me/m_s_p_o_123">
 <img src="https://img.shields.io/badge/🇹 🇪 🇱 🇪 🇬 🇷 🇦 🇲-black?logo=telegram" width="180">
 
-[![Snapchat%](https://img.shields.io/badge/Snapchat-%27ffd343.svg?logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/itzmrshyam)
+[![Snapchat%](https://img.shields.io/badge/Snapchat-%27ffd343.svg?logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/itzmrshyam?share_id=w3efrbWRzac&locale=en-US)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itzmrshyam)
 [![Messager](https://img.shields.io/badge/Messager-%27E4405F.svg?logo=Facebook&logoColor=white)](https://m.me/itzmrshyam)
 [![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/itzmrshyam)

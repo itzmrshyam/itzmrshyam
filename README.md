@@ -189,14 +189,14 @@ https://github-profile-trophy.vercel.app/?username=itzmrshyam&theme=onestar
 <a href="https://telegram.me/m_s_p_o_123">
 <img src="https://img.shields.io/badge/🇹 🇪 🇱 🇪 🇬 🇷 🇦 🇲-black?logo=telegram" width="180">
 
-[![Snapchat%](https://img.shields.io/badge/Snapchat-%27ffd343.svg?logo=Snapchat&logoColor=white)](https://www.snapchat.com/shyamsundar9692)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/it_zmrshyam)
+[![Snapchat%](https://img.shields.io/badge/Snapchat-%27ffd343.svg?logo=Snapchat&logoColor=white)](https://www.snapchat.com/itzmrshyam)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itzmrshyam)
 [![Messager](https://img.shields.io/badge/Messager-%27E4405F.svg?logo=Facebook&logoColor=white)](https://m.me/itzmrshyam)
 [![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/itzmrshyam)
 [![GitHub](https://img.shields.io/badge/~GitHub~-%27E4405F.svg?logo=GitHub&logoColor=white)](https://github.com/itzmrshyam)
-[![Twitter](https://img.shields.io/badge/~Twitter~-%23E4405F.svg?logo=Twitter&logoColor=white)](https://twitter.com/itz_mrshyam)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%27E4405F.svg?logo=pinterest&logoColor=white)](https://in.pinterest.com/itz_mrshyam/)
-[![Linkedin](https://img.shields.io/badge/~LinkedIn-%23E4405F.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itz-mrshyam/)
+[![Twitter](https://img.shields.io/badge/~Twitter~-%23E4405F.svg?logo=Twitter&logoColor=white)](https://twitter.com/itzmrshyam)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%27E4405F.svg?logo=pinterest&logoColor=white)](https://in.pinterest.com/itzmrshyam/)
+[![Linkedin](https://img.shields.io/badge/~LinkedIn-%23E4405F.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itzmrshyam/)
 [![Reddit](https://img.shields.io/badge/~Reddit~-%27E4405F.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/itz_mrshyam/)
 [![Flickr](https://img.shields.io/badge/~Flickr~-%23E4405F.svg?logo=flickr&logoColor=white)](https://www.flickr.com/photos/196321369@N05/)
 [![Nextdoor](https://img.shields.io/badge/nextdoor-%27E4405F.svg?logo=nextdoor&logoColor=white)](https://nextdoor.com/business-profile/preview/)

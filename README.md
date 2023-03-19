@@ -23,22 +23,9 @@
 
 
 <a href="https://github.com/itzmrshyam/github-profile-summary-cards">
-    <img align="center" src="https://raw.githubusercontent.com/cateiru/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg" width="270px" />
-  </a>
+
 </div>
-<p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmrshyam&show_icons=true&locale=en&layout=compact" alt="itzmrshyam" /></p>
-<p align="left"> <a href="https://github.com/itzmrshyam/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmrshyam" alt="itzmrshyam" /></a> </p>
-<p align="left"><img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="itzmrshyam" /></a> </p>
-<p align="center">
-  <img width="330" src="https://user-images.githubusercontent.com/6661165/91659474-c07f7400-eb0a-11ea-84f2-eb6b42547829.png">
-</p>
-# flat
 
-
-<p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
-</p>
 <p align="center">
 <img width="1000" height="200" src="https://github.com/itzmrshyam/itzmrshyam/blob/main/coding.gif">
 </p>
